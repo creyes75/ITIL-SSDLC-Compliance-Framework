@@ -1,0 +1,31 @@
+Práctica Gestión de incidentes y Peticiones conforme ITIL V4
+
+Se realizan mejoras en los documentos de politicas, proceso y procedimiento para el manejo adecuado y ajustado a las practicas de gestión de Incidentes y gestión de solicitudes de ITIL 4
+
+Se recomienda el manejo de una unica extencion de contacto telefonico y un unico buzon de correo, para el reporte de incidentes y para solicitudes respectivamente, y como unico canal de comunicacion con los usuarios
+
+SE recomiendan realizar mejoras en la definicion de configuraciones dentro de la herramienta de mesa de ayuda.
+
+Se recomienda definir la funcion de coordinador de mesa de ayuda, con el objetivo de centralizar el manejo de la misma.
+
+Se recomienda establecer grupos de atencion en base al conocimiento y expertice del personal tecnico (Soporte tecnico de primer nivel, segundo nivel, y stercer nivel)
+
+SE recomienda depurar y actualizar la informacion de invnetarios para ser utilizada en la identificacion del componente del cual se reportan incidentes
+
+Se recomienda el uso de una base de datos de conocimiento
+
+Se recomienda revisar el catalogo de servicios y las opciones de solicitudes sobre las que se puedan ejecutar acciones de soporte.
+
+
+
+
+Establecimiento Metodología Ciclo de vida del software
+
+Se realizan mejoras a los actuales documentos de politicas, proceso y procedimiento para el manejo del ciclo de vida de software orientado al control de la seguridad.
+
+Se recomienda definir un standard en los requisitos minimos de seguridad para desarrollos nuevos o a futuras contrataciones, 
+
+Se recomienda definir todas las funcionalidades minimas necesarias para poder tener la trazabilidad necesaria enfocada a procesos de auditoria.
+
+Se hace enfasis en la recomendacion de realizar analisis de riesgos, manejar proteccion de datos confidenciales, definir casos de uso para pruebas funcionales y casos de abuso para pruebas de seguridad (tecnica y funcional).
+

@@ -1,0 +1,25 @@
+Abreviaturas mas usadas en ITIL 4
+	RMC (CIR)Registro de mejora continua
+	SVS Sistema de valor del servicio
+	CVS Cadena de valor del servicio
+	UC Contrato de apoyo
+	SLA Niveles de servicios
+	RFC Solicitud de cambio
+	CI elementos de configuracion
+	KEDB es una base de datos de todos los errores conocidos
+	CMS Sistema de gestion de la configuracion
+	CMDB Base de datos de la configuracion 
+	CMS Sistema de Gestion de la Configuracion
+
+	DML Biblioteca definitiva de medios
+	DHS Tienda de hardware definitiva
+
+	CAB Comite Asesor de cambio
+	ECAB comite asesor de cambios de emergencia
+	
+Sitios de glosarios de terminos
+https://itservice.com.co/glosario-itil-4/
+https://www.axelos.com/glossaries-of-terms
+
+Sitio simulador de examen ITIL.
+https://www.daypo.com/simulador-itil-v4-1-1.html#test

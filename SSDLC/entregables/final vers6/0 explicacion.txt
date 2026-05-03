@@ -1,0 +1,6 @@
+Políticas y Directrices del Proceso.docx ---> contiene el detalle de la politica propuesta a FTTG
+diagrama proceso aplicacioenes.docx      ---> contiene el diagrama del proceso para desarrollo desoftware
+Procedimiento .docx			 ---> ccontiene el procedimiento detallado para el desarrollo de software
+Implementación de puntos de control en SSDLC.docx --> contiene el detalle de los puntos de contol basados en la metodologia McGraw
+
+ANEXO 1 - 10 formularios de control de los diferentes puntos de control del ciclo de vida del software seguro

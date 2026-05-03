@@ -1,0 +1,103 @@
+CAPACITACION ITIL V4
+PArticipantes:
+Cindy
+Jameson
+David
+Jaime
+
+cindy.chang@ttg.ec
+david.carrera@ttg.ec
+jaime.berrazueta@ttg.ec
+jameson.villanueva@ttg.ec
+
+cindy.chang@ttg.ec, david.carrera@ttg.ec, jaime.berrazueta@ttg.ec, jameson.villanueva@ttg.ec, 
+
+
+https://interpolados.wordpress.com/2020/09/23/itil-4-practicas-de-gestion-de-itil-desarrollo-y-gestion-de-software/
+
+
+Abreviaturas mas usadas en ITIL 4
+	RMC (CIR)Registro de mejora continua
+	SVS Sistema de valor del servicio
+	CVS Cadena de valor del servicio
+	UC Contrato de apoyo
+	SLA Niveles de servicios
+	RFC Solicitud de cambio
+	CI elementos de configuracion
+	KEDB es una base de datos de todos los errores conocidos
+	CMS Sistema de gestion de la configuracion
+	CMDB Base de datos de la configuracion 
+	CMS Sistema de Gestion de la Configuracion
+
+	DML Biblioteca definitiva de medios
+	DHS Tienda de hardware definitiva
+
+	CAB Comite Asesor de cambio
+	ECAB comite asesor de cambios de emergencia
+https://itservice.com.co/glosario-itil-4/
+https://www.axelos.com/glossaries-of-terms
+
+Sitio simulador de examen ITIL.
+https://www.daypo.com/simulador-itil-v4-1-1.html#test
+
+
+
+
+
+
+
+bitacora de asistencia
+presentar en sesion para acordar firma de constancia
+
+
+
+
+
+
+
+
+
+
+1676.89
+Gabriela Mota
+
+
+
+Registro de la mejora continua RMC)CIR, contiinual improvement register
+
+
+
+
+
+
+1676.89
+Gabriela Mota
+
+
+
+Registro de la mejora continua RMC)CIR, contiinual improvement register
+
+
+
+
+Requisitos para Medidor de Servicios generales
+
+Copia de Ruc 
+nombramiento del represntate (copia no orginal )
+cedula y CV del represntate 
+Reg propidad del represntate legal o del condominio
+Celular y correo electronico
+
+Deposito en garantia por consumo va de $20 a 40 dolares, se factura en las siguientes planillas.
+El tramitefisicamente es mas rapido q por via Web
+
+Orden de inspeccion para ver si cumple con los requisitos minimos.
+se debe llamar luego 2 o 3 para reviasar resultado de inspeccion.
+
+140 Copia de escritura
+15 legalizar nombramiento
+15 reg propiedad 
+20 bypass
+20 para las colas y caramelos
+TOTAL =$210
+200 / 6 

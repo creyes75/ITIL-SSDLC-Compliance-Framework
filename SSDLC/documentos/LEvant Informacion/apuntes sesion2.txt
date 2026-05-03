@@ -1,0 +1,43 @@
+Director
+jefaatura cumple funcion de jefe sistemas
+analista cumple con la funcion de coordinador 
+
+nuevo  proceso de fidelizacion de clientes
+
+
+tiempos
+prioridad impacto y se comunuca el tiempo iinicio y tiempo de ejecucion
+
+si es un aplicativo totalmente nuevo Direccion aprueba y desigana  un lider 
+
+
+agregar una nueva funcionalidad  - el rol de coordinador aprueba coordina y delega. designa un lider.
+modificar la funcionalidad de una opcion ya existente - mismo esquema de aprobacion q nueva funcionalidad
+
+revsiion del impacto en otros modulos u opciones
+
+Lider del proyecto debe coordinar siempre con el coordinador.
+
+no se debec onsiderar en este proceso los software de backoffice, antivirus, etc. Solo lo referentes a software 
+
+2016 Dinamyx AX
+
+asgurar la calidad del software en terminos de calidad y funcionalidad
+asegurar disponigbilidad
+en contrattos de mantenimentos se sugiere incluir instalacion de parches o actualizaciones incluidass
+definir los lenguajes de promacion no pueden ser antiguos.
+
+sistema de boleteria ingreso a trabajar el 2020
+compatibilidad con varios browser, validar los componentes utilizados q sean reconocidos y tengan soportes.
+
+analisis mas exhaustivo de las caracteristicas del sistema a contratar.
+
+no hay una definicion en la responsabilidad de quien reaiza la actualizacoion o quien reporta la necesidad.
+
+contratos de mantenimeintos y contrato de soportes
+documentacion de usuaiors, doc de configuraciones, diccopnario de datos arquitectura, doc de ersonalizaciones. Para desarrollos externos.
+
+garantia con terceros, los cambios deben estar en un fix q deben liberar despues.
+cualquier defecto demostrable del software debe ser resuelto.
+
+
